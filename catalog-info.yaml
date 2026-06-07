@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mod-entities-links
+  annotations:
+    github.com/project-slug: psmagin/mod-entities-links
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
